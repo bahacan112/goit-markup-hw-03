@@ -56,3 +56,34 @@ body {
 .adres-list:focus {
     color: #404bbf;
 }
+
+.section-class-1 {
+    background-color: #2e2f42;
+
+}
+
+.ilk-baslik {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+
+}
+
+.section-1-button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.section-1-button:hover {
+    background-color: #404BBF;
+}
+
+.section-1-button:focus {
+    background-color: #404BBF;
+}
