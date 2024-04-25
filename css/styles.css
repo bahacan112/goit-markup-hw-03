@@ -80,11 +80,11 @@ body {
     cursor: pointer;
 }
 
-.sect1button:hover {
+.button:hover {
     background-color: #404BBF;
 }
 
-.sect1button:focus {
+.button:focus {
     background-color: #404BBF;
 }
 
