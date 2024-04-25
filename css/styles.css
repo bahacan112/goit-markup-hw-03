@@ -57,7 +57,7 @@ body {
     color: #404bbf;
 }
 
-.section-class-1 {
+.sect1 {
     background-color: #2e2f42;
 
 }
@@ -71,7 +71,7 @@ body {
 
 }
 
-.section-1-button {
+.sect1button {
     background-color: #4D5AE5;
     font-weight: 500;
     line-height: 1.5;
@@ -80,10 +80,10 @@ body {
     cursor: pointer;
 }
 
-.section-1-button:hover {
+.sect1button:hover {
     background-color: #404BBF;
 }
 
-.section-1-button:focus {
+.sect1button:focus {
     background-color: #404BBF;
 }
