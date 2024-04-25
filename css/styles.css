@@ -57,7 +57,7 @@ body {
     color: #404bbf;
 }
 
-.sect1 {
+.sect-ilk {
     background-color: #2e2f42;
 
 }
@@ -71,7 +71,7 @@ body {
 
 }
 
-.sect1button {
+.buttonilk {
     background-color: #4D5AE5;
     font-weight: 500;
     line-height: 1.5;
@@ -80,11 +80,11 @@ body {
     cursor: pointer;
 }
 
-.sect1button:hover {
+.buttonilk:hover {
     background-color: #404BBF;
 }
 
-.sect1button:focus {
+.buttonilk:focus {
     background-color: #404BBF;
 }
 
