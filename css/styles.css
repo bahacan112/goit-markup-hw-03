@@ -100,3 +100,17 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.sect-third {
+    background-color: #f4f4fd;
+
+}
+
+.ourteamheader {
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+
+}
