@@ -44,11 +44,15 @@ body {
 
 }
 
-.adres:hover {
+.adres-list {
+    color: #434455;
+}
+
+.adres-list:hover {
     color: #404bbf;
 
 }
 
-.adres:focus {
+.adres-list:focus {
     color: #404bbf;
 }
