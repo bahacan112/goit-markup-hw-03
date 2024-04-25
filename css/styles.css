@@ -57,7 +57,7 @@ body {
     color: #404bbf;
 }
 
-.sect-1 {
+.sect1 {
     background-color: #2e2f42;
 
 }
@@ -86,4 +86,17 @@ body {
 
 .sect1button:focus {
     background-color: #404BBF;
+}
+
+.ourbaslik {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.featureslist1 {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
