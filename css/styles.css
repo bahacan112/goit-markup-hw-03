@@ -108,23 +108,19 @@ body {
     background-color: #f4f4fd;
 }
 
-
-
-
-
-
-
-.ourteamheader {
+.third-section-header {
     font-size: 36px;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
     line-height: 1.11;
-
 }
 
-.list {
+
+
+
+.third-list {
     background-color: #FFFFFF;
 }
 
