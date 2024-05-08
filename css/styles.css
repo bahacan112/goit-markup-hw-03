@@ -13,6 +13,11 @@ body {
 
 }
 
+div {
+    width: 1158px;
+    padding: 0 15px;
+}
+
 .menu {
     display: flex;
     gap: 40px;
