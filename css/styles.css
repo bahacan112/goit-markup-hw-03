@@ -16,6 +16,13 @@ body {
 .menu {
     display: flex;
     gap: 40px;
+    padding: 24px 0;
+
+}
+
+.adress-list {
+    display: flex;
+    gap: 40px;
 }
 
 .nav-bar {
