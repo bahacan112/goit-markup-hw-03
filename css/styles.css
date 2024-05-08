@@ -8,6 +8,11 @@ body {
     border-bottom: 1px solid #e7e9fc
 }
 
+.header-main-div {
+    display: flex;
+
+}
+
 .logo-header {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
