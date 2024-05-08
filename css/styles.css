@@ -1,8 +1,4 @@
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
-}
+@import url('https://cdnjs.com/libraries/modern-normalize');
 
 body {
     font-family: 'Roboto', sans-serif;
