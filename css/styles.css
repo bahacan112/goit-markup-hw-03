@@ -16,7 +16,7 @@ body {
 div {
     width: 1158px;
     padding: 0 15px;
-    margin: 0;
+    margin: 0 auto;
 }
 
 .menu {
