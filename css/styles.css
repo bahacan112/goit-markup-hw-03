@@ -13,6 +13,12 @@ body {
 
 }
 
+.header-complated {
+    width: 1158px;
+    padding: 0 15px;
+
+}
+
 .logo-header {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
