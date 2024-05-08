@@ -25,6 +25,10 @@ body {
     gap: 40px;
 }
 
+.menu a {
+    padding: 24px 0;
+}
+
 .nav-bar {
     display: flex;
     align-items: center;
