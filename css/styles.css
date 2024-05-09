@@ -13,9 +13,7 @@ body {
 
 }
 
-.container-first-div {
-    max-width: 496px;
-}
+
 
 .container {
     width: 1158px;
@@ -121,6 +119,7 @@ img {
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
+    max-width: 496px;
 
 }
 
@@ -131,6 +130,10 @@ img {
     letter-spacing: 0.04em;
     color: #FFFFFF;
     cursor: pointer;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 }
 
 .buttonilk:hover {
