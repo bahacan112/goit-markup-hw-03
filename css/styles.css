@@ -55,10 +55,7 @@ body {
 
 }
 
-.ourfeatureslistitems {
-    overflow: hidden;
-    width: calc((100% - 72px) / 4);
-}
+
 
 .logo-header {
     font-family: "Raleway", sans-serif;
@@ -213,7 +210,6 @@ img {
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
     height: 1px;
-
     position: absolute;
     white-space: nowrap;
     width: 1px;
