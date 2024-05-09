@@ -116,6 +116,10 @@ img {
     color: #404bbf;
 }
 
+.section-four {
+    padding: 120px 0 120px 0;
+}
+
 .sect-ilk {
     background-color: #2e2f42;
     padding: 188px 0;
@@ -227,6 +231,7 @@ img {
 .team-p {
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .porfolio-header {
