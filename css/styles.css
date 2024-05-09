@@ -185,6 +185,7 @@ img {
 
 .third-list {
     display: flex;
+    gap: 24px;
 
 }
 
