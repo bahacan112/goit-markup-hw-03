@@ -233,6 +233,12 @@ img {
     text-align: center;
 }
 
+.portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px
+}
+
 .porfolio-header {
     font-size: 36px;
     line-height: 1.11;
