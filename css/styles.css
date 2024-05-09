@@ -177,8 +177,11 @@ img {
 
 .sect-third {
     background-color: #f4f4fd;
+    padding: 120px 0;
 
 }
+
+.sect-third-div {}
 
 .ourteamheader {
     font-size: 36px;
@@ -191,6 +194,8 @@ img {
 
 .third-list-li {
     background-color: #ffffff;
+    display: flex;
+    gap: 24px;
 }
 
 .teamname {
@@ -199,6 +204,7 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .team-p {
