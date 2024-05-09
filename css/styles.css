@@ -123,7 +123,14 @@ img {
 
 }
 
+.sect-two {
+
+    padding: 120px 0;
+
+}
+
 .buttonilk {
+    display: block;
     background-color: #4D5AE5;
     font-weight: 500;
     line-height: 1.5;
