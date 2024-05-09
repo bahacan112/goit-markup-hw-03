@@ -199,6 +199,11 @@ img {
     margin-bottom: 72px;
 }
 
+.our-team-name-div {
+    padding: 32px 0;
+
+}
+
 .third-list-li {
     background-color: #ffffff;
     display: flex;
