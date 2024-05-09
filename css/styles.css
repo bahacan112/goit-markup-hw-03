@@ -13,11 +13,15 @@ body {
 
 }
 
+.container-first-div {
+    max-width: 496px;
+}
+
 .container {
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
-    max-width: 496px;
+
 }
 
 .menu {
